@@ -29,9 +29,9 @@ The agent from slide 14, as Claude Code skills in [`kit/aeo-skills/`](kit/aeo-sk
 
 **First run:** copy a skill folder into `~/.claude/skills/`, run `pip install -r requirements.txt`, put your own API keys in a local `.env` file (never commit it), then ask Claude Code to "run an AEO brand visibility analysis for [your brand]". Each skill's `SKILL.md` lists the keys it needs.
 
-## Free AI visibility snapshot
+## Your one thing to do
 
-We run twenty buyer questions about your category across five assistants and send you your presence score, who is named instead of you, and the biggest gaps. Book before 27 November 2026 at https://www.raygency.com.
+Run skill 01 on your own brand by 27 November 2026: twenty buyer questions, five assistants, five runs. Then reply to Varun's follow up email with your score and your biggest gap.
 
 ## Who made this
 
