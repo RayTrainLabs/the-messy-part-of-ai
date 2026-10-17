@@ -1,0 +1,11 @@
+Publish Date,Content Type,Title / URL,Target Query or Cluster,Expected Attribution Lag (days),Status
+2025-10-20,LLMs.txt,https://example.com/llms.txt,"brand identity, product catalog",14,live
+2025-11-03,Schema,Product schema markup rollout (Organic Whey range),"organic whey protein, whey isolate Germany",14,live
+2025-11-17,FAQ,https://example.com/faq/magnesium-bisglycinate,"magnesium bisglycinate benefits, best magnesium",14,live
+2025-12-01,Advertorial,Healthline advertorial: Sleep stack guide,"natural sleep aids, magnesium for sleep",30,live
+2025-12-15,Advertorial,MindBodyGreen advertorial: Adaptogen primer,"adaptogens for stress, ashwagandha rhodiola",30,live
+2025-12-29,Blog,https://example.com/blog/vitamin-d3-k2-guide,"vitamin D3 K2 dosage, D3 K2 benefits",14,live
+2026-01-12,Blog,https://example.com/blog/omega-3-algae-vs-fish,"vegan omega 3, algae oil vs fish oil",14,live
+2026-02-09,Schema,FAQ schema on top 20 product pages,"product-specific long-tail queries",21,live
+2026-03-09,FAQ,https://example.com/faq/ashwagandha-dosage,"ashwagandha dosage, ashwagandha side effects",14,live
+2026-04-06,Blog,https://example.com/blog/zinc-bisglycinate-immunity,"zinc for immunity, zinc bisglycinate",14,planned

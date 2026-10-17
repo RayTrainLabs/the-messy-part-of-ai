@@ -1,0 +1,20 @@
+{
+  "brand_name": "main_brand",
+  "brand_aliases": [
+    "main_brand"
+  ],
+  "industry": "Health supplements (demo)",
+  "competitors": {
+    "direct": [
+      "comp_brand_1",
+      "comp_brand_2",
+      "comp_brand_3"
+    ],
+    "indirect": [
+      "comp_brand_4",
+      "comp_brand_5",
+      "comp_brand_6",
+      "comp_brand_7"
+    ]
+  }
+}

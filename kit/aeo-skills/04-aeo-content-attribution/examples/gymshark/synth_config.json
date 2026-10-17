@@ -1,0 +1,58 @@
+{
+  "target_brand": "Gymshark",
+  "start_date": "2025-06-02",
+  "engines": ["llm_openai", "llm_gemini", "llm_anthropic", "llm_perplexity"],
+  "target_curve": [
+    25, 26, 27, 28, 29, 30, 31, 32, 33, 35,
+    37, 40, 43, 46, 48, 51, 54, 56, 58, 59,
+    60, 60, 61, 61
+  ],
+  "competitors": [
+    {"name": "Lululemon",    "baseline": 45, "drift": -0.20},
+    {"name": "Nike",         "baseline": 42, "drift": -0.15},
+    {"name": "Alphalete",    "baseline": 18, "drift":  0.00},
+    {"name": "AYBL",         "baseline": 14, "drift": -0.10},
+    {"name": "Adidas",       "baseline": 28, "drift": -0.10},
+    {"name": "Under Armour", "baseline": 16, "drift": -0.05},
+    {"name": "Fabletics",    "baseline": 12, "drift": -0.10},
+    {"name": "Represent",    "baseline":  8, "drift":  0.00}
+  ],
+  "query_boosts": {
+    "Q03": [[8, 0.15]],
+    "Q04": [[8, 0.20]],
+    "Q05": [[8, 0.20]],
+    "Q13": [[8, 0.20]],
+    "Q14": [[8, 0.15]],
+    "Q06": [[7, 0.20]],
+    "Q07": [[10, 0.25]],
+    "Q08": [[8, 0.20]],
+    "Q02": [[10, 0.10]],
+    "Q11": [[10, 0.10]],
+    "Q12": [[10, 0.10]],
+    "Q09": [[12, 0.15]],
+    "Q10": [[12, 0.20]],
+    "Q17": [[12, 0.15]],
+    "Q18": [[12, 0.20]],
+    "Q15": [[15, 0.20]],
+    "Q16": [[15, 0.20]],
+    "Q01": [[16, 0.10], [18, 0.10]]
+  },
+  "citation_pool": {
+    "Q03": [["https://www.gymshark.com/pages/leggings-guide", 8]],
+    "Q04": [["https://www.gymshark.com/pages/leggings-guide", 8],
+            ["https://www.gymshark.com/pages/care-guide", 10]],
+    "Q05": [["https://www.gymshark.com/pages/leggings-guide", 8]],
+    "Q13": [["https://www.gymshark.com/pages/leggings-guide", 8]],
+    "Q14": [["https://www.gymshark.com/pages/care-guide", 10],
+            ["https://www.gymshark.com/pages/leggings-guide", 8]],
+    "Q06": [["https://help.gymshark.com/hc/en-us/categories/sizing-fit", 7]],
+    "Q07": [["https://www.gymshark.com/pages/care-guide", 10]],
+    "Q08": [["https://www.gymshark.com/pages/sports-bra-guide", 8]],
+    "Q09": [["https://www.gymshark.com/blog/article/how-to-become-a-gymshark-athlete", 12]],
+    "Q10": [["https://www.gymshark.com/llms.txt", 12]],
+    "Q17": [["https://www.gymshark.com/llms.txt", 12]],
+    "Q18": [["https://www.gymshark.com/llms.txt", 12]],
+    "Q15": [["https://www.gymshark.com/pages/shorts-guide", 9]],
+    "Q16": [["https://www.gymshark.com/blog/article/the-nutrition-behind-cutting", 6]]
+  }
+}

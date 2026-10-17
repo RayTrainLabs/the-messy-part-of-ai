@@ -1,0 +1,49 @@
+Publish Date,Content Type,Title / URL,Target Query or Cluster,Expected Attribution Lag (days),Status
+2025-06-02,Blog,https://www.gymshark.com/blog/article/5k-training-plan,"couch to 5k plan, 5k training for beginners, 8 week running plan",14,paused
+2025-06-02,Blog,https://www.gymshark.com/blog/article/10k-training-plan,"10k training plan beginner, run first 10k, 8 week 10k plan",14,live
+2025-06-16,Blog,https://row.gymshark.com/blog/article/hyrox-training-guide,"hyrox training plan, hyrox workout, hyrox preparation",14,live
+2025-06-16,Blog,https://row.gymshark.com/blog/article/calisthenic-workouts-for-beginners,"calisthenics for beginners, bodyweight training, calisthenics exercises",14,live
+2025-06-30,Blog,https://row.gymshark.com/blog/article/hypertrophy-training,"hypertrophy training, muscle growth rep range, training for size",14,live
+2025-06-30,Blog,https://row.gymshark.com/blog/article/the-ultimate-guide-to-bulking,"how to bulk, lean bulking guide, progressive overload bulking",14,live
+2025-07-14,Blog,https://row.gymshark.com/blog/article/the-nutrition-behind-cutting,"cutting diet, fat loss while keeping muscle, cutting macros",14,live
+2025-07-14,Blog,https://row.gymshark.com/blog/article/how-to-increase-protein-intake-for-muscle-growth,"protein for muscle growth, how much protein, daily protein intake",14,live
+2025-07-14,Blog,https://row.gymshark.com/blog/article/should-you-have-a-protein-shake-before-bed,"protein shake before bed, casein before sleep, pre sleep protein",14,live
+2025-07-28,Blog,https://www.gymshark.com/blog/article/peanut-butter-protein-bar,"high protein peanut butter bars, no bake protein bar recipe",14,live
+2025-07-28,Blog,https://www.gymshark.com/blog/article/how-to-become-a-gymshark-athlete,"gymshark66, gymshark athlete program, gymshark ambassador",14,live
+2025-08-11,Blog,https://www.gymshark.com/blog/tag/weight-training,"weight training tips, strength training hub, lifting guides",14,live
+2025-08-11,Blog,https://www.gymshark.com/blog/category/health,"fitness health content, training wellness articles",14,live
+2025-08-25,FAQ,https://help.gymshark.com/hc/en-us/categories/sizing-fit,"gymshark leggings size guide, what size am i, sizing fit",10,paused
+2025-08-25,FAQ,https://help.gymshark.com/hc/en-us/categories/orders-returns,"gymshark returns policy, how to return, refund timeline",10,live
+2025-08-25,FAQ,https://help.gymshark.com/hc/en-us/categories/shipping-delivery,"gymshark shipping times, delivery cost, international shipping",10,live
+2025-09-08,FAQ,https://www.gymshark.com/pages/leggings-guide,"best leggings for squats, leggings opacity, high waisted leggings",14,live
+2025-09-08,FAQ,https://www.gymshark.com/pages/sports-bra-guide,"sports bra impact level, sports bra sizing, best sports bra running",14,live
+2025-09-22,FAQ,https://www.gymshark.com/pages/shorts-guide,"best gym shorts, lifting shorts vs running shorts, inseam length",14,live
+2025-09-22,FAQ,https://www.gymshark.com/pages/running-guide,"what to wear running, running gear essentials, beginner runner kit",14,live
+2025-10-06,FAQ,https://www.gymshark.com/pages/care-guide,"how to wash activewear, prevent leggings pilling, care for sportswear",10,live
+2025-10-06,Schema,Product schema markup on full activewear catalog,"leggings, sports bras, t-shirts, shorts category pages",21,live
+2025-10-06,Schema,Review schema on Vital Seamless and Adapt collections,"vital seamless leggings reviews, adapt camo reviews",21,live
+2025-10-20,Schema,HowTo schema on training plan articles,"how to run 5k, how to bulk, how to start calisthenics",21,live
+2025-10-20,Schema,FAQ schema on sizing and care guides,"what size leggings, how to wash gymshark",21,live
+2025-11-03,Schema,Article schema on hypertrophy and bulking guides,evidence-based training content,21,live
+2025-11-03,Schema,Breadcrumb schema sitewide refresh,"site architecture, category navigation",21,paused
+2025-11-03,Schema,VideoObject schema on Gymshark Training App workouts,"workout video schema, exercise demos",21,live
+2025-11-17,Schema,Organization schema with E-E-A-T author credentials,"brand authority, coach credentials, expert reviewed",21,live
+2025-11-17,LLMs.txt,https://www.gymshark.com/llms.txt,"brand identity, product catalog, training content map",14,live
+2025-12-01,LLMs.txt,llms-full.txt with full category taxonomy,"full activewear taxonomy, content hubs",14,live
+2025-12-01,LLMs.txt,"Multilingual llms.txt (UK, US, DE, FR, AU)","international SEO, multi market AEO",14,live
+2025-12-15,LLMs.txt,Versioned llms.txt with monthly changelog,"content freshness signals, model retrieval",14,live
+2025-12-15,Advertorial,Men's Health advertorial: Best gym shorts for lifting 2025,"best gym shorts, lifting shorts, training shorts men",30,live
+2025-12-15,Advertorial,Women's Health advertorial: Squat proof leggings guide,"squat proof leggings, best leggings for gym, opaque leggings",30,live
+2025-12-29,Advertorial,Runner's World advertorial: Marathon kit essentials,"marathon running gear, long run apparel, race day kit",30,live
+2025-12-29,Advertorial,GQ advertorial: Athleisure for the office to gym pivot,"athleisure men, gym to street fits, training joggers",30,live
+2026-01-12,Advertorial,Cosmopolitan advertorial: Hot girl walk wardrobe,"hot girl walk outfit, walking leggings, athleisure women",30,live
+2026-01-12,Advertorial,Outside Magazine advertorial: Hybrid athlete kit,"hybrid athlete, run and lift gear, crossfit apparel",30,live
+2026-01-26,Advertorial,Self Magazine advertorial: Sports bras by impact level,"high impact sports bra, low impact sports bra, sports bra guide",30,paused
+2026-01-26,Advertorial,Esquire advertorial: Building a capsule training wardrobe,"minimalist gym wardrobe, training capsule, essential gym kit",30,live
+2026-01-26,Press,Gymshark 66 January campaign launch press release,"gymshark 66, january fitness campaign, habit challenge",21,live
+2026-02-09,Press,Gymshark Lifting Club London opening coverage,"gymshark lifting club, gymshark gym london, flagship gym",21,live
+2026-02-09,Press,Gymshark x Hyrox partnership announcement,"gymshark hyrox partnership, official apparel partner",21,live
+2026-02-23,Press,Sustainability report 2025: recycled materials roadmap,"gymshark sustainability, recycled polyester, ESG report",21,paused
+2026-02-23,Press,Gymshark Training App milestone press coverage,"gymshark training app, free workout app, fitness app downloads",21,live
+2026-03-09,Press,Founder Ben Francis Sunday Times interview coverage,"ben francis interview, gymshark founder, gymshark unicorn",21,live
+2026-03-09,Press,Gymshark Black Friday campaign trade press coverage,"gymshark black friday, athleisure black friday sales",21,live

@@ -1,0 +1,16 @@
+# AEO-04 Content Attribution — Python dependencies
+#
+# Minimum runtime: stdlib only. The default attribution pipeline runs against
+# either a local CSV (--content-planner) or a public Google Sheet via its CSV
+# export endpoint (--sheet-url). Neither path imports a third-party library.
+#
+# Install the packages below only if you need:
+#   - gspread service-account access for private Google Sheets (--sheet-id mode)
+#   - the test suite under tests/
+
+gspread>=6.0.0
+google-auth>=2.0.0
+
+# Dev dependencies
+pytest>=8.0.0
+mypy>=1.10.0
