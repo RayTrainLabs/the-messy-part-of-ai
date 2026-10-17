@@ -19,7 +19,7 @@ Raygency webinar, 6 November 2026. Speaker Varun Tyagi, host Renuka Adnani.
 
 ## For your technical team: the AEO skills
 
-The agent from slide 14, as Claude Code skills in [`kit/aeo-skills/`](kit/aeo-skills):
+The agent from slide 21, as Claude Code skills in [`kit/aeo-skills/`](kit/aeo-skills):
 
 | # | Skill | What it does |
 |---|---|---|
