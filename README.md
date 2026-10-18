@@ -1,6 +1,6 @@
 # The messy part of AI: Production, ROI, and Your Visibility
 
-Raygency webinar, 6 November 2026. Speaker Varun Tyagi, host Renuka Adnani.
+Raygency webinar, 6 November 2026. Speaker Varun Tyagi.
 
 **Your customers already asked. You weren't in the answer.** This is the kit from the talk: everything you need to check whether your brand is on the AI shortlist, measure it every month, and put a number on it.
 
